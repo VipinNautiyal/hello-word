@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-Vipin here, I like python and data science an this is my first time using Github
+Vipin here, I like Python and data science and this is my first time using GitHub
